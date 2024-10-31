@@ -1,5 +1,12 @@
 @charset "utf-8";
 
+@media screen and (max-width: 959px) {
+	/* 959px以下に適用されるCSS（タブレット用） */
+}
+@media screen and (max-width: 480px) {
+	/* 480px以下に適用されるCSS（スマホ用） */
+}
+
 .imputfrom{
     border: 5px;
 }
@@ -14,7 +21,7 @@ body{
 table {
     border-collapse: collapse;
     border: solid 1px black;
-    width: 360px;
+    width: 300px;
 }
 
 p{
