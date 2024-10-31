@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+.imputfrom{
+    border: 5px;
+}
+
 body{
     text-align: center;
     background-color: white;
