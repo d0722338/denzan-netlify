@@ -1,5 +1,5 @@
 function displayBoth() {
-    event preventDefault();
+    preventDefault();
     kaisuu();
     dennzannprint();
     fontsize();
